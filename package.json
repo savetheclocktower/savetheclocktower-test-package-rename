@@ -1,5 +1,5 @@
 {
-  "name": "savetheclocktower-test-package-rename",
+  "name": "savetheclocktower-test-package-renamed",
   "main": "./lib/savetheclocktower-test-package-rename",
   "version": "0.0.1",
   "description": "A short description of your package",
