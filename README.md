@@ -1,4 +1,4 @@
-# savetheclocktower-test-package-rename package
+# savetheclocktower-test-package-renamed package
 
 A short description of your package.
 
